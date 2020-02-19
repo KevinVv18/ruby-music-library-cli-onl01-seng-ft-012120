@@ -1,2 +1,2 @@
-class Artits
+class Artist
   attr_accessor :name, :genre
